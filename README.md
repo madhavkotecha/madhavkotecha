@@ -91,7 +91,7 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width=35 title="Selenium"/>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank">
-<img src="https://en.wikipedia.org/wiki/Apache_JMeter#/media/File:Apache_JMeter_Logo.svg" alt="JMeter" width=35 title="JMeter"/>
+<img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/jmeter.svg" alt="JMeter" width=35 title="JMeter"/>
 </a>
 
 <!-- Is commented things even technology? 
