@@ -13,7 +13,7 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 <div align="left">
 
 <a href="https://isocpp.org/" target="_blank">
-<img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/cpp.svg" alt="C++" width=70 title="C++"/>
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" alt="C++" width=70 title="C++"/>
 </a>
 <a href="https://go.dev/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width=70 title="GO"/>
@@ -72,7 +72,7 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" width=80 title="Azure"/>
 </a>
 <a href="https://huggingface.co/" target="_blank">
-<img src="https://github.com/gilbarbara/logos/blob/main/logos/hugging-face-icon.svg" alt="HuggingFace" width=80 title="HuggingFace"/>
+<img src="https://github.com/walkxcode/dashboard-icons/blob/main/svg/hugging-face.svg" alt="HuggingFace" width=80 title="HuggingFace"/>
 </a>
     
 <a href="https://git-scm.com/" target="_blank">
@@ -91,7 +91,7 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width=35 title="Selenium"/>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank">
-<img src="https://github.com/detain/svg-logos/blob/master/svg/j/jmeter.svg" alt="JMeter" width=35 title="JMeter"/>
+<img src="https://en.wikipedia.org/wiki/Apache_JMeter#/media/File:Apache_JMeter_Logo.svg" alt="JMeter" width=35 title="JMeter"/>
 </a>
 
 <!-- Is commented things even technology? 
