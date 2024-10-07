@@ -5,7 +5,7 @@
 I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 
 [![Linkedin Badge](https://img.shields.io/badge/-Madhav_Kotecha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhav-kotecha/)](https://www.linkedin.com/in/madhav-kotecha/)
-
+[![An image of @madhavjpg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavjpg)](https://holopin.io/@madhavjpg)
 ## ⚡Skills⚡
 
 <br>
