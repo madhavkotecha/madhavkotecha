@@ -130,7 +130,6 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 ## 📫 How to reach me?
 
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/madhav-kotecha/) 👨🏻‍💻 <br>
-⦿ Follow me on [instagram](https://www.instagram.com/imadhavk/) 🤩 <br>
 ⦿ Shoot Me an [Email](mailto:madhav.g.kotecha@gmail.com) 💌 <br>
 
 [![An image of @madhavjpg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavjpg)](https://holopin.io/@madhavjpg)
