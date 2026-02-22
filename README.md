@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Madhav Kotecha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <h1 align="center">Hey there, I'm Madhav Kotecha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://madhavkotecha.me">madhavkotecha.me</a>
 
@@ -92,7 +92,7 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 </a>
 <a href="https://jmeter.apache.org/" target="_blank">
 <img src="https://github.com/vinceliuice/Fluent-icon-theme/blob/master/src/scalable/apps/jmeter.svg" alt="JMeter" width=35 title="JMeter"/>
-</a>
+</a> -->
 
 <!-- Is commented things even technology? 
  Ok, jokeas apart, I will learn in future if requirement appears suddenly :) -->
@@ -123,14 +123,18 @@ I'm an MTech CSE student at IIT Bombay specializing in the field of AI and ML
 <!-- <a href="https://www.cypress.io/" target="_blank">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/cypress.svg" alt="cypress" title="CYPRESS" width=80/>
 </a> -->
-</div>
+
+
+<!-- </div>
 
 <br />
 
 ## 📫 How to reach me?
 
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/madhav-kotecha/) 👨🏻‍💻 <br>
-⦿ Shoot Me an [Email](mailto:madhav.g.kotecha@gmail.com) 💌 <br>
+⦿ Shoot Me an [Email](mailto:madhav.g.kotecha@gmail.com) 💌 <br> -->
+
+
 
 [![An image of @madhavjpg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhavjpg)](https://holopin.io/@madhavjpg)
 
